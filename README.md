@@ -1,4 +1,4 @@
-# AI-Rael-Estate-Agent
+# AI-Real-Estate-Agent
 Finding the perfect property involves sifting through countless listings across multiple websites, analyzing location trends, and making informed investment decisions. For developers and real estate professionals, automating this process can save hours of manual work while providing deeper market insights.
 we'll build an AI Real Estate Agent that automates property search and market analysis. This agent will help users find properties matching their criteria while providing detailed location trends and investment recommendations, all through a clean user interface.
 
